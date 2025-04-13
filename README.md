@@ -1,3 +1,5 @@
+IMPORTANT!
+Before run the test you need to login manually at the mobile app!!! We automated only the survey test as project requires. If you don't login manually then all tests will fail.
 Prerequisites
 Before running the tests, make sure you have:
 
