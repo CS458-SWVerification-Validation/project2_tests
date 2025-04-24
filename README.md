@@ -22,9 +22,9 @@ The test project does not include the APK file due to file size restrictions.
 
 Before running the tests:
 
-Locate the .apk file (e.g., app-debug.apk) in your mobile app project.
+Locate the .apk file (e.g., app-debug.apk) in mobile app project.
 
-Copy the .apk file into this folder (your local test project folder).
+Copy the .apk file into test project folder.
 
 Then, install it on your device or emulator using:
 adb install app-release.apk
